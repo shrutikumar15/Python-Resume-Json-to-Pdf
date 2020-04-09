@@ -15,7 +15,7 @@ Docx resume file is converted to pdf file using docx2pdf.
 
 > json
 
-## Requirements:
+## Requirements
 
 > Python 3.x
 
@@ -23,7 +23,7 @@ Docx resume file is converted to pdf file using docx2pdf.
 
 > Microsoft Office
 
-## Files:
+## Files
 
 >schema.txt is the json format schema.
 
