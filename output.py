@@ -129,8 +129,9 @@ def ChangeWidthOfTableCertifications(table,column):
 dstyles=document.styles
 def allstyles(dstyles):
     k = len(dstyles)
-    print (k) 
+    #print (k) 
     for i in dstyles:
+        pass
         #print (i.name) ##to print all styles
 allstyles(dstyles)
 ##TABLESTYLE
