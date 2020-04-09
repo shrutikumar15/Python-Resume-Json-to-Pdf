@@ -28,15 +28,15 @@ volunteer_info_list = json_data['volunteer_info_list']
 accomplishments_info_list = json_data['accomplishments_info_list']
 hobbies_info_list = json_data['hobbies_info_list']
 
-print("LISTS")
-print(basic_info_list)
-print(education_info_list)
-print(projects_info_list)
-print(certifications_info_list)
-print(experience_info_list)
-print(skills_info_list)
-print(volunteer_info_list)
-print(accomplishments_info_list)
+#print("LISTS")
+#print(basic_info_list)
+#print(education_info_list)
+#print(projects_info_list)
+#print(certifications_info_list)
+#print(experience_info_list)
+#print(skills_info_list)
+#print(volunteer_info_list)
+#print(accomplishments_info_list)
 #ALL LISTS
 
 
@@ -131,7 +131,7 @@ def allstyles(dstyles):
     k = len(dstyles)
     print (k) 
     for i in dstyles:
-        print (i.name)
+        #print (i.name) ##to print all styles
 allstyles(dstyles)
 ##TABLESTYLE
 def tablesty(table):
@@ -239,7 +239,7 @@ else:
 if basic_info_list[7]=="":
     str2=""
 else:
-    str2="HackerRank - "+basic_info_list[7]
+    str2="GitHub - "+basic_info_list[7]
 if flag==1:
     pass
 else:
