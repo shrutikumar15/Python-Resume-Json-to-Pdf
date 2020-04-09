@@ -1,0 +1,50 @@
+basic_info_list : #single list
+index 0: first_name
+index 1: last_name
+index 2: headline      #B.E. in I.T or Engineer at google
+index 3: linkedin_link  
+index 4: email_id       #not available on linkedin
+index 5: phone_number   #not available on linkedin
+index 6: age            #not available on linkedin
+index 7: github_link   #not available on linkedin
+
+
+education_info_list : #this will be a list of list, as multiple degrees(10th,12th,be)
+index 0: institute_name
+index 1: degree_name
+index 2: field_of_study #not using in resume
+index 3: year_of_passing
+index 4: grade
+
+projects_info_list : #again list of list as multiple projects
+index 0: project_name
+index 1: duration_of_project
+index 2: description_of_project
+
+certifications_info_list: #list of list
+index 0: certification_name
+index 1: issue_date
+index 2: certification_issuing_organization
+
+experience_info_list: #list of list
+index 0: company_name
+index 1: position_name
+index 2: dates_employed
+index 3: description
+
+skills_info_list: #single list
+index 0: skill_name
+
+volunteer_info_list: #can have multiple volunteer experience
+index 0: organization_name
+index 1: role_name
+index 2: dates_employed
+index 3: description
+
+
+accomplishments_info_list: #can have multiple accomplishments
+index 0: accomplishment_title_name
+index 1: year 
+
+hobbies_info_list:  #single list
+index 0: hobby_name    #not available on linkedin

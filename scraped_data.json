@@ -1,0 +1,93 @@
+{"basic_info_list":
+ ["Shruti",
+ "Kumar",
+ "Third Year IT Engineering Student at Thadomal Shahani Engineering College", 
+ "https://www.linkedin.com/in/shruti-kumar-96a576121/",
+ "shrutikumar.001@gmail.com",
+ "123456789",
+ "21",
+ "https://github.com/shrutikumar15"
+  ], 
+"education_info_list": 
+  [
+    ["Thadomal Shahani Engineering College",
+     "Bachelor's degree",
+     "Information Technology",
+      "2021",
+      "7.41/10"
+    ], 
+    ["Jai Hind College", 
+     "HSC", 
+     "", 
+     "2017",
+     "88.46%"
+    ], 
+    ["Villa Theresa High School", 
+    "ICSE", 
+     "", 
+     "2015", 
+     "86.54%"
+    ]
+   ],
+"projects_info_list": 
+   [
+    ["SENTIMENT ANALYSIS OF CODE-MIXED LANGUAGES",
+     "Jan 2020 \u2013 Mar 2020", 
+     "Created a website that analyses sentiments of code-mixed Indian languages, i.e. languages written in roman script on social media. Worked with a team of 6 using technologies like Python, Flask, Keras, Firebase, Scikit learn, TweePy, HTML, CSS, JavaScript and Bootstrap."
+    ],
+    ["STUDWEISER CHATBOT", 
+    "Feb 2019 \u2013 Mar 2019", 
+    "Conceptualized & Created a financial assistant chatbot called Myra for students. Developed chatbot using DialogFlow and it fetched user data from Firebase."
+    ],
+    ["MUSIC RECOMMENDATION SYSTEM",
+    "Aug 2019 \u2013 Nov 2019",
+    "Implemented a content-based Music Recommendation System using MyFlaskApp and Pandas. Worked with a team of 3 using technologies like HTML, CSS, JavaScript, Spotypy API."
+    ]
+   ],
+"certifications_info_list": 
+  [
+    ["ICPCID",
+     "Dec 2019",
+     "ICPC - International Collegiate Programming Contest"
+    ]
+   ], 
+"experience_info_list": 
+ [
+  ["Sbi Dfhi Limited", 
+   "Software Engineer Intern", 
+   "May 2019 \u2013 Jul 2019", 
+   "Developed a Learning Management System that provides a web interface to share educational courses, training programs, or compliance courses with employees.It was built using Angular Framework, NodeJS and SQL."
+  ]
+ ],
+"skills_info_list": 
+ ["Programming", 
+  "Data Structures",
+  "C++", 
+  "Java", 
+  "Cascading Style Sheets (CSS)",
+  "HTML5", 
+  "Bootstrap",
+  "Angular Material",
+  "JavaScript",
+  "SQL",
+  "Leadership"
+ ],
+"volunteer_info_list":
+ [
+  ["The Lighthouse Project India",
+  "Mentor", 
+  "Jan 2020 \u2013 Mar 2020",
+  "Taught children from ages 8-10 English Math Logic"
+  ]
+ ], 
+"accomplishments_info_list": 
+ [ 
+  ["ICPC Asia Pune-Gwalior Regionals rank 112",
+   "Dec 2019"
+  ],
+  ["3rd place at Trident Coding Competition", 
+  "Oct 2019"
+  ]
+ ], 
+"hobbies_info_list": ["Reading","Dancing"]
+}
