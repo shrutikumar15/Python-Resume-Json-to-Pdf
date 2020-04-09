@@ -33,7 +33,7 @@ Docx resume file is converted to pdf file using docx2pdf.
 
 ### Clone
 Clone this repo to your local machine using 
-> git clone hhttps://github.com/shrutikumar15/python-resume-json-to-pdf.git
+> git clone https://github.com/shrutikumar15/python-resume-json-to-pdf.git
 
 ### Setup
 Install docx
